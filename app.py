@@ -28,6 +28,9 @@ def load_data():
     
 # Cambio realizado en la rama Aaron
 
+# Cambio directo en la rama main
+
+
 # Cargar datos
 data = load_data()
 
